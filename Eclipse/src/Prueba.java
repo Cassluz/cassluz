@@ -1,4 +1,4 @@
 
 public class Prueba {
-	int a;
+	int i=10;
 }
